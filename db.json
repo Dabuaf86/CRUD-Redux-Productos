@@ -1,0 +1,39 @@
+{
+  "productos": [
+    {
+      "nombre": "Peugeot 208",
+      "precio": "8200000",
+      "id": 2
+    },
+    {
+      "nombre": "Chevrolet Onix 1.0 Turbo",
+      "precio": "8000000",
+      "id": 3
+    },
+    {
+      "nombre": "VW Polo Hatchback",
+      "precio": "8300000",
+      "id": 4
+    },
+    {
+      "nombre": "Toyota Yaris 1.8",
+      "precio": "9000000",
+      "id": 5
+    },
+    {
+      "nombre": "KIA Rio",
+      "precio": "9100000",
+      "id": 6
+    },
+    {
+      "nombre": "Coca-Zero",
+      "precio": "480",
+      "id": 7
+    },
+    {
+      "nombre": "Agua",
+      "precio": "1000",
+      "id": 8
+    }
+  ]
+}
